@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Sansation_Bold';
+   font-display: swap;
+   src: url('Sansation_Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Sansation_Regular';
+   font-display: swap;
+   src: url('Sansation_Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Sansation_Light';
+   font-display: swap;
+   src: url('Sansation_Light/font.ttf');
+}
